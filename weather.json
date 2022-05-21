@@ -1,0 +1,259 @@
+{
+  "latitude" : 40.7146,
+  "longitude" : -74.0071,
+  "resolvedAddress" : "New York, NY, United States",
+  "address" : "new york city",
+  "timezone" : "America/New_York",
+  "tzoffset" : -4.0,
+  "name" : "new york city",
+  "days" : [ {
+    "datetime" : "2022-05-01",
+    "tempmax" : 67.4,
+    "tempmin" : 47.5,
+    "temp" : 57.3,
+    "sunrise" : "05:54:37",
+    "sunset" : "19:52:20",
+    "moonphase" : 0.0
+  }, {
+    "datetime" : "2022-05-02",
+    "tempmax" : 56.1,
+    "tempmin" : 52.2,
+    "temp" : 54.0,
+    "sunrise" : "05:53:21",
+    "sunset" : "19:53:22",
+    "moonphase" : 0.01
+  }, {
+    "datetime" : "2022-05-03",
+    "tempmax" : 61.4,
+    "tempmin" : 50.9,
+    "temp" : 55.6,
+    "sunrise" : "05:52:06",
+    "sunset" : "19:54:24",
+    "moonphase" : 0.03
+  }, {
+    "datetime" : "2022-05-04",
+    "tempmax" : 65.5,
+    "tempmin" : 50.2,
+    "temp" : 56.0,
+    "sunrise" : "05:50:53",
+    "sunset" : "19:55:26",
+    "moonphase" : 0.06
+  }, {
+    "datetime" : "2022-05-05",
+    "tempmax" : 73.1,
+    "tempmin" : 56.7,
+    "temp" : 63.7,
+    "sunrise" : "05:49:41",
+    "sunset" : "19:56:27",
+    "moonphase" : 0.09
+  }, {
+    "datetime" : "2022-05-06",
+    "tempmax" : 61.5,
+    "tempmin" : 50.2,
+    "temp" : 56.3,
+    "sunrise" : "05:48:30",
+    "sunset" : "19:57:29",
+    "moonphase" : 0.13
+  }, {
+    "datetime" : "2022-05-07",
+    "tempmax" : 50.9,
+    "tempmin" : 46.8,
+    "temp" : 48.9,
+    "sunrise" : "05:47:21",
+    "sunset" : "19:58:30",
+    "moonphase" : 0.18
+  }, {
+    "datetime" : "2022-05-08",
+    "tempmax" : 58.2,
+    "tempmin" : 45.8,
+    "temp" : 51.7,
+    "sunrise" : "05:46:13",
+    "sunset" : "19:59:31",
+    "moonphase" : 0.22
+  }, {
+    "datetime" : "2022-05-09",
+    "tempmax" : 69.3,
+    "tempmin" : 46.9,
+    "temp" : 57.7,
+    "sunrise" : "05:45:06",
+    "sunset" : "20:00:31",
+    "moonphase" : 0.27
+  }, {
+    "datetime" : "2022-05-10",
+    "tempmax" : 72.0,
+    "tempmin" : 52.2,
+    "temp" : 61.0,
+    "sunrise" : "05:44:01",
+    "sunset" : "20:01:32",
+    "moonphase" : 0.32
+  }, {
+    "datetime" : "2022-05-11",
+    "tempmax" : 74.3,
+    "tempmin" : 54.0,
+    "temp" : 62.5,
+    "sunrise" : "05:42:58",
+    "sunset" : "20:02:32",
+    "moonphase" : 0.37
+  }, {
+    "datetime" : "2022-05-12",
+    "tempmax" : 72.8,
+    "tempmin" : 57.8,
+    "temp" : 64.4,
+    "sunrise" : "05:41:55",
+    "sunset" : "20:03:31",
+    "moonphase" : 0.41
+  }, {
+    "datetime" : "2022-05-13",
+    "tempmax" : 69.8,
+    "tempmin" : 57.9,
+    "temp" : 62.7,
+    "sunrise" : "05:40:55",
+    "sunset" : "20:04:30",
+    "moonphase" : 0.45
+  }, {
+    "datetime" : "2022-05-14",
+    "tempmax" : 71.6,
+    "tempmin" : 60.2,
+    "temp" : 64.3,
+    "sunrise" : "05:39:56",
+    "sunset" : "20:05:29",
+    "moonphase" : 0.48
+  }, {
+    "datetime" : "2022-05-15",
+    "tempmax" : 76.9,
+    "tempmin" : 59.9,
+    "temp" : 66.6,
+    "sunrise" : "05:38:58",
+    "sunset" : "20:06:27",
+    "moonphase" : 0.5
+  }, {
+    "datetime" : "2022-05-16",
+    "tempmax" : 74.1,
+    "tempmin" : 65.7,
+    "temp" : 69.5,
+    "sunrise" : "05:38:02",
+    "sunset" : "20:07:25",
+    "moonphase" : 0.5
+  }, {
+    "datetime" : "2022-05-17",
+    "tempmax" : 78.5,
+    "tempmin" : 57.5,
+    "temp" : 67.1,
+    "sunrise" : "05:37:08",
+    "sunset" : "20:08:22",
+    "moonphase" : 0.52
+  }, {
+    "datetime" : "2022-05-18",
+    "tempmax" : 72.1,
+    "tempmin" : 56.4,
+    "temp" : 63.8,
+    "sunrise" : "05:36:16",
+    "sunset" : "20:09:18",
+    "moonphase" : 0.54
+  }, {
+    "datetime" : "2022-05-19",
+    "tempmax" : 66.6,
+    "tempmin" : 54.6,
+    "temp" : 59.6,
+    "sunrise" : "05:35:25",
+    "sunset" : "20:10:14",
+    "moonphase" : 0.58
+  }, {
+    "datetime" : "2022-05-20",
+    "tempmax" : 63.8,
+    "tempmin" : 53.0,
+    "temp" : 58.9,
+    "sunrise" : "05:34:36",
+    "sunset" : "20:11:09",
+    "moonphase" : 0.63
+  }, {
+    "datetime" : "2022-05-21",
+    "tempmax" : 93.6,
+    "tempmin" : 60.2,
+    "temp" : 76.8,
+    "sunrise" : "05:33:49",
+    "sunset" : "20:12:04",
+    "moonphase" : 0.68
+  }, {
+    "datetime" : "2022-05-22",
+    "tempmax" : 93.3,
+    "tempmin" : 71.5,
+    "temp" : 82.1,
+    "sunrise" : "05:33:03",
+    "sunset" : "20:12:58",
+    "moonphase" : 0.74
+  }, {
+    "datetime" : "2022-05-23",
+    "tempmax" : 74.4,
+    "tempmin" : 59.6,
+    "temp" : 67.8,
+    "sunrise" : "05:32:19",
+    "sunset" : "20:13:51",
+    "moonphase" : 0.79
+  }, {
+    "datetime" : "2022-05-24",
+    "tempmax" : 69.9,
+    "tempmin" : 54.8,
+    "temp" : 61.2,
+    "sunrise" : "05:31:37",
+    "sunset" : "20:14:43",
+    "moonphase" : 0.85
+  }, {
+    "datetime" : "2022-05-25",
+    "tempmax" : 66.3,
+    "tempmin" : 54.9,
+    "temp" : 58.7,
+    "sunrise" : "05:30:57",
+    "sunset" : "20:15:34",
+    "moonphase" : 0.89
+  }, {
+    "datetime" : "2022-05-26",
+    "tempmax" : 80.9,
+    "tempmin" : 55.7,
+    "temp" : 67.3,
+    "sunrise" : "05:30:19",
+    "sunset" : "20:16:25",
+    "moonphase" : 0.93
+  }, {
+    "datetime" : "2022-05-27",
+    "tempmax" : 67.0,
+    "tempmin" : 57.3,
+    "temp" : 59.6,
+    "sunrise" : "05:29:42",
+    "sunset" : "20:17:14",
+    "moonphase" : 0.96
+  }, {
+    "datetime" : "2022-05-28",
+    "tempmax" : 66.8,
+    "tempmin" : 55.8,
+    "temp" : 59.7,
+    "sunrise" : "05:29:08",
+    "sunset" : "20:18:03",
+    "moonphase" : 0.99
+  }, {
+    "datetime" : "2022-05-29",
+    "tempmax" : 69.0,
+    "tempmin" : 52.6,
+    "temp" : 59.6,
+    "sunrise" : "05:28:35",
+    "sunset" : "20:18:50",
+    "moonphase" : 1.0
+  }, {
+    "datetime" : "2022-05-30",
+    "tempmax" : 65.9,
+    "tempmin" : 52.8,
+    "temp" : 60.1,
+    "sunrise" : "05:28:05",
+    "sunset" : "20:19:36",
+    "moonphase" : 0.0
+  }, {
+    "datetime" : "2022-05-31",
+    "tempmax" : 59.8,
+    "tempmin" : 55.8,
+    "temp" : 57.9,
+    "sunrise" : "05:27:36",
+    "sunset" : "20:20:22",
+    "moonphase" : 0.0
+  } ],
+  "queryCost" : 20
+}

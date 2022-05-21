@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.calendar{
+    border: 5px solid black;
+    width: 45rem;
+    height: 50rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.month{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(43, 149, 133);
+    height: 8rem;
+}
+#date h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+#date p{
+    display: flex;
+    justify-content: center;
+}
+.rest{
+    background-color: rgb(166, 181, 177);
+}
+.weekdays{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding:0.4rem;
+    height: 5rem;
+}
+.weekdays div{
+display:flex;
+justify-content: center;
+align-items: center;
+width: calc(44.2rem / 7);
+font-size: 2rem;
+}
+.days{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.2rem;
+}
+.days div{
+    margin:0.6rem;
+    display: flex;
+    justify-content: center;
+    height: 6rem;
+    /* background-color:rgb(166, 181, 177); */
+}
+.days button{
+    border:none;
+    width: calc(40.2rem / 8);
+    /* background-color:rgb(166, 181, 177); */
+    background-color:rgb(194,210,206);
+    font-size: 1.8rem;
+}
+/* img{
+    display: flex;
+    padding-top: 13rem;
+    flex-wrap: wrap;
+} */
+/* .info{
+    display:flex
+}
+.info div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
